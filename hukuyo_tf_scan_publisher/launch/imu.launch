@@ -1,0 +1,10 @@
+<launch>
+
+
+
+  <!-- Launch ROS Package Template Node -->
+  <node pkg="hukuyo_tf_scan_publisher" type="hukuyo_tf_scan_publisher" name="hukuyo_tf_scan_publisher">
+  </node>
+
+
+</launch>
