@@ -10,4 +10,6 @@ driver_base:
 
 git clone https://github.com/ros-drivers/driver_common.git
 
+to run this package do:
 
+rosrun hokuyo_tf_scan_publisher hokuyo_link
